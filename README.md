@@ -17,10 +17,6 @@ I prefer to be anonymous, so please don't disturb me on social media, as I don't
 
 I dream one day I'll make a successful project with over 100k stars and 1000k contributors.
 
-
-
-⁠
-
 <b>My most favorite language</b>
 ```brainfuck
 >>,[>>,]<<[
@@ -82,6 +78,6 @@ with (window.self.frames.globalThis) {
 
 <b>My personal website</b>
 
-https://unbioctium.com
+You can learn more about me on my personal website:
 
-(still under development)
+https://unbioctium.com/ (Mirror: https://ruochenjia.pages.dev/)
